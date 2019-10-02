@@ -839,8 +839,7 @@ void I2C_EV_IRQHandling(I2C_Handle_t *pI2CHandle)
  *
  * @return            -
  *
- * @Note              - Complete the code also define these macros in the driver
-						header file
+ * @Note              -  These macros are defined in the header file
 						#define I2C_ERROR_BERR  3
 						#define I2C_ERROR_ARLO  4
 						#define I2C_ERROR_AF    5
