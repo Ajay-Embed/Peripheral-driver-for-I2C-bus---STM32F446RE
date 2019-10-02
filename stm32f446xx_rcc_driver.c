@@ -2,7 +2,7 @@
  * stm32f446xx_rcc_driver.c
  *
  *  Created on: 30-Sep-2019
- *      Author: blueh
+ *      Author: Ajay
  */
 
 
